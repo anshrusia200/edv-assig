@@ -7,7 +7,7 @@ import { useState } from "react";
 function CodeEditorComponent() {
   const [code, setCode] = useState(`function add(a, b) {\n  return a + b;\n}`);
   const [mode, setMode] = useState("light");
-  const [readOnly, setReadOnly] = useState(true);
+  const [readOnly, setReadOnly] = useState(false);
   return (
     <div
       style={{
