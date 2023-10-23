@@ -6,7 +6,7 @@ git clone https://github.com/anshrusia200/edv-assig.git
 First, move to the directory : 
 
 ```bash
-cd edvanta
+cd edv-assig
 ```
 #### To run the app:
 Install all dependencies 
