@@ -22,3 +22,4 @@ npm run dev
 Open your localhost at port 5173 to view the local app run.
 
 ## Deployed link
+https://edvanta-assignment.netlify.app/
